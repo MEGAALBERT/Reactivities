@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client-app",
-    "\\client-app\\src"
+    "\\client-app\\public",
+    "\\Domain"
   ],
-  "SelectedNode": "\\client-app\\src\\App.tsx",
+  "SelectedNode": "\\Domain\\Domain.csproj",
   "PreviewInSolutionExplorer": false
 }
