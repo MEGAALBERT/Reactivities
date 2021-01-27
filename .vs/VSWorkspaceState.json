@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\client-app",
-    "\\client-app\\public\\assets",
     "\\client-app\\src",
     "\\client-app\\src\\app",
-    "\\client-app\\src\\app\\models",
-    "\\client-app\\src\\features",
-    "\\client-app\\src\\features\\activities",
-    "\\client-app\\src\\features\\activities\\form",
-    "\\client-app\\src\\features\\nav"
+    "\\client-app\\src\\app\\api",
+    "\\client-app\\src\\app\\layout"
   ],
-  "SelectedNode": "\\client-app\\src\\features\\activities\\form\\ActivityForm.tsx",
+  "SelectedNode": "\\client-app\\src\\app\\layout\\LoadingComponent.tsx",
   "PreviewInSolutionExplorer": false
 }
